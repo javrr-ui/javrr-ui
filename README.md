@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 Estudio ingenieria en computación.
 Me gusta estar aprendiendo cosas nuevas, sobre todo aprender lenguajes de programacion y cosas acerca de tecnologia.
 <!--
