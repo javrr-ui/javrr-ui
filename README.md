@@ -2,6 +2,9 @@
 
 Estudio ingenieria en computación.
 Me gusta estar aprendiendo cosas nuevas, sobre todo aprender lenguajes de programacion y cosas acerca de tecnologia.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javrr-ui)](https://git.io/streak-stats)
+
 <!--
 **javrr-ui/javrr-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
