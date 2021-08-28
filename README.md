@@ -5,6 +5,11 @@ Me gusta estar aprendiendo cosas nuevas, sobre todo aprender lenguajes de progra
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javrr-ui)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javrr-ui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javrr_ui)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **javrr-ui/javrr-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
