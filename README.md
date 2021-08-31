@@ -3,7 +3,7 @@
 Estudio ingenieria en computación.
 Me gusta estar aprendiendo cosas nuevas, sobre todo aprender lenguajes de programacion y cosas acerca de tecnologia.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javrr-ui)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javrr-ui&layout=compact)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javrr-ui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
