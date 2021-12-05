@@ -2,12 +2,17 @@
 
 Estudio ingenieria en computación.
 Me gusta estar aprendiendo cosas nuevas, sobre todo aprender lenguajes de programacion y cosas acerca de tecnologia.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javrr-ui&layout=compact">
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javrr-ui&layout=compact)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javrr-ui">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javrr-ui)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=javrr_ui)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=javrr_ui">
+</p>
 
 <!--
 **javrr-ui/javrr-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
