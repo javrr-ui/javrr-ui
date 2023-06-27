@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-Estudio ingenieria en computación.
-Me gusta estar aprendiendo cosas nuevas, sobre todo aprender lenguajes de programacion y cosas acerca de tecnologia.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=javrr-ui&layout=compact">
 </p>
